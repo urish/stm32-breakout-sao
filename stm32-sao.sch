@@ -956,7 +956,7 @@ U 1 1 5D8CF9EB
 P 4800 5600
 F 0 "J1" H 4850 5817 50  0000 C CNN
 F 1 "Conn_02x02_Top_Bottom" H 4850 5726 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical" H 4800 5600 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical" H 4800 5600 50  0001 C CNN
 F 3 "~" H 4800 5600 50  0001 C CNN
 F 4 "0" H 4800 5600 50  0001 C CNN "JLCPCB BOM"
 	1    4800 5600
