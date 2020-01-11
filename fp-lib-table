@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name SOICBite)(type KiCad)(uri ${KIPRJMOD}/soicbite.pretty)(options "")(descr https://github.com/SimonMerrett/SOICbite))
+  (lib (name AramCon)(type KiCad)(uri ${KIPRJMOD}/aramcon.pretty)(options "")(descr ""))
 )
